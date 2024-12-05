@@ -19,3 +19,4 @@ Faces from Videos]([https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Su
 16. [Unsupervised Video Face Super-Resolution via Untrained Neural Network Priors](https://ieeexplore.ieee.org/abstract/document/10650940), SHi R, et al. IJCNN 2024.
 17. [VFHQ: A High-Quality Dataset and Benchmark for Video Face Super-Resolution](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Xie_VFHQ_A_High-Quality_Dataset_and_Benchmark_for_Video_Face_Super-Resolution_CVPRW_2022_paper.html), Xie L, et al. CVPRW 2022.
 18. [An Efficient Network Design for Face Video Super-Resolution](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Yu_An_Efficient_Network_Design_for_Face_Video_Super-Resolution_ICCVW_2021_paper.pdf), Yu F, et a. ICCVW 2021.
+19. [Face video Super Resolution using Deep Convolutional Neural Network](https://ieeexplore.ieee.org/document/9128399), Deshmukh, A, B, et al, ICCUBEA 2019. 
